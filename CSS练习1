@@ -1,0 +1,12 @@
+<html>
+	<style type="text/css">
+		a:link{color:red;}
+		a:visited{color:green;}
+		a:hover{color:blue;}
+		a:active{color:yellow;}
+		
+	</style>
+	<a href="www.qq.com">
+		www.qq.com
+	</a>
+</html>
